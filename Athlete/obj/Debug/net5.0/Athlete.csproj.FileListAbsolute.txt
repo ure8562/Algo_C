@@ -1,0 +1,16 @@
+D:\git\C#Algo\Algo_C\Athlete\bin\Debug\net5.0\Athlete.exe
+D:\git\C#Algo\Algo_C\Athlete\bin\Debug\net5.0\Athlete.deps.json
+D:\git\C#Algo\Algo_C\Athlete\bin\Debug\net5.0\Athlete.runtimeconfig.json
+D:\git\C#Algo\Algo_C\Athlete\bin\Debug\net5.0\Athlete.runtimeconfig.dev.json
+D:\git\C#Algo\Algo_C\Athlete\bin\Debug\net5.0\Athlete.dll
+D:\git\C#Algo\Algo_C\Athlete\bin\Debug\net5.0\ref\Athlete.dll
+D:\git\C#Algo\Algo_C\Athlete\bin\Debug\net5.0\Athlete.pdb
+D:\git\C#Algo\Algo_C\Athlete\obj\Debug\net5.0\Athlete.csproj.AssemblyReference.cache
+D:\git\C#Algo\Algo_C\Athlete\obj\Debug\net5.0\Athlete.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\C#Algo\Algo_C\Athlete\obj\Debug\net5.0\Athlete.AssemblyInfoInputs.cache
+D:\git\C#Algo\Algo_C\Athlete\obj\Debug\net5.0\Athlete.AssemblyInfo.cs
+D:\git\C#Algo\Algo_C\Athlete\obj\Debug\net5.0\Athlete.csproj.CoreCompileInputs.cache
+D:\git\C#Algo\Algo_C\Athlete\obj\Debug\net5.0\Athlete.dll
+D:\git\C#Algo\Algo_C\Athlete\obj\Debug\net5.0\ref\Athlete.dll
+D:\git\C#Algo\Algo_C\Athlete\obj\Debug\net5.0\Athlete.pdb
+D:\git\C#Algo\Algo_C\Athlete\obj\Debug\net5.0\Athlete.genruntimeconfig.cache
