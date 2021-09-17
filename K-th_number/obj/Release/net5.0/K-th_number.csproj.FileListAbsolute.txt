@@ -13,3 +13,4 @@ D:\git\C#Algo\Algo_C\K-th_number\obj\Release\net5.0\K-th_number.dll
 D:\git\C#Algo\Algo_C\K-th_number\obj\Release\net5.0\ref\K-th_number.dll
 D:\git\C#Algo\Algo_C\K-th_number\obj\Release\net5.0\K-th_number.pdb
 D:\git\C#Algo\Algo_C\K-th_number\obj\Release\net5.0\K-th_number.genruntimeconfig.cache
+D:\git\C#Algo\Algo_C\K-th_number\obj\Release\net5.0\K-th_number.csproj.AssemblyReference.cache
